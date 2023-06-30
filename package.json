@@ -1,0 +1,19 @@
+{
+  "name": "react-redux-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node asyncActions.js",
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "nodemon": "^2.0.22",
+    "redux": "^4.2.1",
+    "redux-logger": "^3.0.6"
+  }
+}
